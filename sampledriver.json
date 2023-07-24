@@ -1,0 +1,42 @@
+[
+{
+    "UserID": 51468465,
+    "Name": "Jane Cooper",
+    "Job": "TN21BA0445",
+    "MobileNumber": "9566251575",
+      "PreferedLOcation":"Chennai-Dehli",
+     "expertise":"Flatbeds",
+      "Rating":4,
+       "status":"Active"
+
+},
+{
+    "UserID": 51468466,
+    "Name": "Jane Cooper",
+    "Job": "TN21BA0445",
+    "MobileNumber": "9566251575",
+      "PreferedLOcation":"Chennai-Dehli",
+     "expertise":"Flatbeds",
+      "Rating":4,
+       "status":"Active"
+},
+{
+    "UserID": 51468467,
+    "Name": "Jane Cooper",
+    "Job": "TN21BA0445",
+    "MobileNumber": "9566251575",
+      "PreferedLOcation":"Chennai-Dehli",
+     "expertise":"Flatbeds",
+      "Rating":4,
+       "status":"Active"
+},
+{
+    "UserID": 51468468,
+    "Name": "Jane Cooper",
+    "Job": "TN21BA0445",
+    "MobileNumber": "9566251575",
+      "PreferedLOcation":"Chennai-Dehli",
+     "expertise":"Flatbeds",
+      "Rating":4,
+       "status":"Active"
+}]
